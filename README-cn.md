@@ -33,7 +33,7 @@
 
 克隆该存储库：
 ```bash
-git clone https://github.com/IBM/build-blockchain-insurance-app.git
+git clone https://github.com/acrowise/build-blockchain-insurance-app.git
 ```
 
 使用您的 [docker hub](https://hub.docker.com/) 凭证进行登录。

@@ -36,7 +36,7 @@ Nodeをインストールする際に、Blockchainでやや問題があります
 
 リポジトリをクローンします。
 ```bash
-git clone https://github.com/IBM/build-blockchain-insurance-app.git
+git clone https://github.com/acrowise/build-blockchain-insurance-app.git
 ```
 
 自分の [docker hub](https://hub.docker.com/) の資格情報を使用してログインします。
